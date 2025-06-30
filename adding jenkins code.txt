@@ -1,0 +1,19 @@
+Started by user byneedichanti
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in C:\ProgramData\Jenkins\.jenkins\workspace\two numbers add
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (Add Two Numbers)
+[Pipeline] script
+[Pipeline] {
+[Pipeline] echo
+The sum of 5 and 7 is: 12
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
